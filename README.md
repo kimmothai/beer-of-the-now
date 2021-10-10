@@ -1,6 +1,7 @@
 # Beer of the Now
 
 Uses PunkAPI to suggest a beer. Availability for beer or the API not guaranteed.
+https://beer-of-the-now.herokuapp.com/
 
 ## Features
 
